@@ -1,0 +1,60 @@
+// ignore_for_file: non_constant_identifier_names
+
+class ImageConst {
+  // images
+  static final OnBoarding_1 = "assets/images/onboarding_1.svg";
+  static final OnBoarding_2 = "assets/images/onboarding_2.svg";
+  static final OnBoarding_3 = "assets/images/onboarding_3.svg";
+  static final facebook_logo = "assets/images/Facebook logo.svg";
+  static final google_logo = "assets/images/Google logo.svg";
+  static final Profile = "assets/images/Profile.png";
+  static final addphoto = "assets/images/camera.svg";
+  static final cardImg = "assets/images/cardImg.png";
+  static final Img1 = "assets/images/img1.png";
+  static final Img2 = "assets/images/img2.png";
+  static final Img3 = "assets/images/img3.png";
+  static final urban = "assets/images/urban.png";
+  static final center = "assets/images/center.png";
+  static final backBtn = "assets/images/backButton.svg";
+  static final paypal = "assets/images/paypal.png";
+  static final stripe = "assets/images/stripe.png";
+  static final circle = "assets/images/Circles.png";
+  static final checkBox = "assets/images/CheckBox.png";
+  static final loading = "assets/images/Loading.png";
+  static final home = "assets/icons/Home.svg";
+  static final student = "assets/icons/school.svg";
+  static final wallet = "assets/icons/wallet.svg";
+  static final setting = "assets/icons/Setting.svg";
+  static final driving = "assets/images/Driving.png";
+  static final dashboard = "assets/icons/Dashboard.svg";
+  static final classes = "assets/icons/Layer.svg";
+  static final mobile = "assets/icons/mobile.svg";
+  static final wallet1 = "assets/icons/wallet1.svg";
+  static final honor = "assets/icons/honor.svg";
+  static final graph = "assets/icons/graph.svg";
+  static final car = "assets/icons/car.svg";
+  static final loc = "assets/images/loc.svg";
+  static final nabeel = "assets/images/Image.png";
+  static final car2 = "assets/images/car.png";
+  static final uploadImg = "assets/images/Icon.svg";
+  static final profileIcon = "assets/icons/Profile.svg";
+  static final activity = "assets/icons/Activity.svg";
+  static final discovery = "assets/icons/disc.svg";
+  static final Discovery = "assets/icons/Discovery.svg";
+  static final avatar = "assets/images/Image.jpeg";
+  static final chart = "assets/icons/Chart.svg";
+  static final loca = "assets/icons/Location.svg";
+  static final shield = "assets/icons/Shield.svg";
+  static final message = "assets/icons/Message.svg";
+  static final login = "assets/icons/Login.svg";
+  static final drivingImg = "assets/images/driving.png";
+  static final driverDp = "assets/images/BG.png";
+  static final dsBanner = "assets/images/DSbanner.png";
+  static final notification = "assets/icons/Notification.svg";
+  static final paper = "assets/icons/Paper.svg";
+  static final carCourse = "assets/images/car.svg";
+  static final search = "assets/icons/search.png";
+  static final filter = "assets/icons/Filter.svg";
+  static final link = "assets/icons/link.png";
+  static final edit = "assets/icons/edit.svg";
+}
