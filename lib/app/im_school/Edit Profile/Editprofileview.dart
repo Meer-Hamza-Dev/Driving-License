@@ -8,7 +8,6 @@ import 'package:driving_license/utils/app_constants/text_strings.dart';
 import 'package:driving_license/utils/app_text/app_text.dart';
 import 'package:driving_license/utils/app_text_field.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 
 class EditProfile extends StatelessWidget {
   const EditProfile({super.key});
